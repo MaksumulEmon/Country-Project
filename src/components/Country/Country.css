@@ -1,0 +1,19 @@
+.country {
+    border: 2px solid salmon;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.button {
+    background-color: purple;
+    padding: 7px;
+    border-radius: 8px;
+    font-style: italic;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.country-visited{
+    background-color: greenyellow;
+}

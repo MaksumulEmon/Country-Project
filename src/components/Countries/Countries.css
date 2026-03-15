@@ -1,5 +1,11 @@
-.countries{
+.countries {
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 12px;
+}
+
+.visited-flags-container img {
+    width: 150px;
+    margin-right: 10px;
+
 }
